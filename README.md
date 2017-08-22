@@ -1,9 +1,11 @@
 # stegonography
+
 stegonography is the technic that used to hide the message into image file.without knowing to the other person accept sender and receiver.
 Text can be send in the form of image that can be received by the receiver using password.
 The project mainly had two operations.
     1) Encryption
     2) Decryption
+    
 Algorithm : Encoding
 Step1 : start
 Step2 : Read the
